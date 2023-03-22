@@ -1,0 +1,19 @@
+{
+  "name": "travel-website_2",
+  "version": "1.0.0",
+  "description": "Javascript from 0 to hero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "travel"
+  ],
+  "author": "Bekzod Valiev",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.2"
+  }
+}
